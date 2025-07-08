@@ -1,0 +1,32 @@
+{
+  "app": {
+    "locale": "en"
+  },
+  "routes": {
+    "home": {
+      "text": "Home",
+      "href": "/en",
+      "nl": "/"
+    },
+    "faq": {
+      "text": "FAQ",
+      "href": "/en/faq",
+      "nl": "/faq"
+    },
+    "blog": {
+      "text": "Blog",
+      "href": "/en/blog",
+      "nl": "/blog"
+    },
+    "contact": {
+      "text": "Contact",
+      "href": "/en#footer",
+      "nl": "#footer"
+    },
+    "inloggen": {
+      "text": "Sign In",
+      "href": "/en/sign-in",
+      "nl": "/inloggen"
+    }
+  }
+}
